@@ -3,3 +3,5 @@ Coruscant
 Endor
 Star
 Planeta Terra
+Jakku
+
